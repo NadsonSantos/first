@@ -19,5 +19,13 @@
   "bugs": {
     "url": "https://github.com/NadsonSantos/first/issues"
   },
-  "homepage": "https://github.com/NadsonSantos/first#readme"
+  "homepage": "https://github.com/NadsonSantos/first#readme",
+  "devDependencies": {
+    "grunt": "^1.0.2",
+    "grunt-autoprefixer": "^3.0.4",
+    "grunt-contrib-clean": "^1.1.0",
+    "grunt-contrib-copy": "^1.0.0",
+    "grunt-contrib-cssmin": "^2.2.1",
+    "grunt-contrib-uglify": "^3.3.0"
+  }
 }
